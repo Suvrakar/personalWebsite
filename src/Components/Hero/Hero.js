@@ -5,13 +5,11 @@ import Button from '../Button/Button';
 import "../Button/Button.css"
 
 export default function Hero() {
-    <Helmet>
-        {/* <script src="https://some.host/api.js" type="text/javascript" /> */}
-        <script src="https://unpkg.com/ityped@0.0.10"></script>
-    </Helmet>
     return (
         <>
             <div className="wrapper">
+
+                
                 <div class="container text-center">
                     <h1 class="neon">Hi I am Abrar<br />
                         <h3>A Software Engineer From Bangladesh</h3></h1>
