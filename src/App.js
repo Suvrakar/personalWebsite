@@ -9,6 +9,7 @@ import AwardsPub from './Components/AwardsPub/Awards';
 import Skills from './Components/MySkills/Skills';
 import Interest from './Components/Interest/Interest';
 import BlogArticles from './Components/BlogArticles/BlogArticles';
+import Contact from './Components/ContactMe/Contact';
 
 
 
@@ -25,6 +26,7 @@ function App() {
       <AwardsPub/>
       <Interest/>
       <BlogArticles/>
+      <Contact/>
     </div>
   );
 }
