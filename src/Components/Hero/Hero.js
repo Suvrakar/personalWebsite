@@ -7,22 +7,22 @@ import "../Button/Button.css"
 export default function Hero() {
     return (
         <>
-            <div className="wrapper">
+            <div className="container wrapper">
 
                 
-                <div class="container text-center">
-                    <h1 class="neon">Hi I am Abrar<br />
+                <div className="text-center">
+                    <h1 className="neon">Hi I am Abrar<br />
                         <h3>A Software Engineer From Bangladesh</h3></h1>
                     <div className='pt-5 mt-5 text-center'>
                         <Button></Button>
                         <div>
-                <ul class="social-icons d-flex justify-content-center">
-                    <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li><a href=""><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                    <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    <li><a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                    <li><a href=""><i class="fa fa-skype" aria-hidden="true"></i></a></li>
-                    <li><a href=""><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+                <ul className="social-icons d-flex justify-content-center">
+                    <li><a href=""><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href=""><i className="fa fa-github" aria-hidden="true"></i></a></li>
+                    <li><a href=""><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    <li><a href=""><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    <li><a href=""><i className="fa fa-skype" aria-hidden="true"></i></a></li>
+                    <li><a href=""><i className="fa fa-whatsapp" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
                     </div>
