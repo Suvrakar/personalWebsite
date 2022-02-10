@@ -1,19 +1,19 @@
-/* Compiled from SCSS */
+/* Compiled from SCSS*/
 
 .ps-timeline-sec {
   position: relative;
-  background: #fff;
+  background: #031321; 
 }
 
 .ps-timeline-sec .container {
   position: relative;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 767px) {
   .ps-timeline-sec .container ol:before {
-    background: #eff5f4;
+    background: #348e80;
     content: "";
-    width: 12px;
+    width: 10px;
     height: 10px;
     border-radius: 100%;
     position: absolute;
@@ -32,7 +32,7 @@
   }
   .ps-timeline-sec .container ol.ps-timeline {
     margin: 130px 0 !important;
-    border-left: 2px solid #fcffff;
+    border-left: 2px solid #348e80;
     padding-left: 0 !important;
     padding-top: 120px !important;
     border-top: 0 !important;
@@ -178,7 +178,7 @@
 .ps-timeline-sec .container ol.ps-timeline li span.ps-sp-top:before {
   content: '';
   color: #348e80;
-  width: 3px;
+  width: 2px;
   height: 50px;
   background: #348e80;
   position: absolute;

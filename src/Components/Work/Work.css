@@ -1,7 +1,5 @@
 body{
     line-height:1.3em;
-    min-width:920px;
-
   }
   .history-tl-container{
       font-family: "Roboto",sans-serif;
@@ -58,4 +56,13 @@ body{
       left: -50%;
       text-align: right;
       font-size: 12px;
+  }
+
+  @media screen and (max-width: 767px){
+      .container{
+        max-width: 350px;
+      }
+    .history-tl-container{
+        max-width: 350px;
+    }
   }

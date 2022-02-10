@@ -16,5 +16,15 @@
     width: 100%;
   }
 
-  
+ 
+@media screen and (max-width: 767px) {
+  body{ 
+         background: #031321; 
+         /* max-width: 350px; */
+   
+  } 
+  .container{
+    max-width: 360px;
+  }
+}
   

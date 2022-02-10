@@ -5,7 +5,7 @@ export default function Work() {
     return <div className='container mt-5'>
         <h1 >Work Expericences</h1>
         <p>I have been working as a Software Engineer in Hivecore Limited almost for a year. I am working as a full stack developper. My Stack is React JS in front end and Node JS, Express JS, MySQL and MongoDB in Database and backend.</p>
-        <div class="history-tl-container">
+        <div class="history-tl-container d-flex justify-content-center ">
             <ul class="tl">
                 <li class="tl-item" ng-repeat="item in retailer_history">
                     {/* <div class="timestamp">
