@@ -11,6 +11,7 @@ import Interest from './Components/Interest/Interest';
 import BlogArticles from './Components/BlogArticles/BlogArticles';
 import Contact from './Components/ContactMe/Contact';
 import { Helmet } from "react-helmet";
+import HobbyProjects from './Components/MyHobbyPrjnct/MyHobbyPrjnct';
 
 
 
@@ -34,6 +35,7 @@ function App() {
       <AwardsPub />
       <Interest />
       <BlogArticles />
+      <HobbyProjects/>
       <Contact />
     </div>
   );

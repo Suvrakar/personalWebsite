@@ -22,6 +22,7 @@ export default function Hero() {
                                 <li><a target="_blank" href="https://www.instagram.com/__suvra_/"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 {/* <li><a href=""><i className="fa fa-google-plus" aria-hidden="true"></i></a></li> */}
                                 {/* <li><a href=""><i className="fa fa-skype" aria-hidden="true"></i></a></li> */}
+                                {/* <li><a href=""><i class="fa-brands fa-researchgate"></i></a></li> */}
                                 <li><a href=""><i className="fa fa-whatsapp" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
