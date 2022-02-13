@@ -1,10 +1,15 @@
 h1, p{
     color: white;
 }
-
+.text-justify{
+    text-align: justify;
+}
 
 @media screen and (max-width: 767px) {
     h1,p {
         max-width: 350px
+    }
+    .text-justify{
+        text-align: justify;
     }
 }
