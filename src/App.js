@@ -20,7 +20,7 @@ function App() {
     <div className='container d-flex flex-column justify-content-center'>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Debashis Kar Suvra | Portfolio </title>
+        <title>Abrar | Portfolio </title>
         <meta name="DebashisKarSuvra" content="Helmet application" />
       </Helmet>
 
