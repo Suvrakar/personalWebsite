@@ -17,9 +17,9 @@ export default function Hero() {
                         <Button></Button>
                         <div>
                             <ul className="social-icons d-flex justify-content-center">
-                                <li><a target="_blank" href="https://www.facebook.com/karsuvra/"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a target="_blank" href="https://github.com/Suvrakar"><i className="fa fa-github" aria-hidden="true"></i></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/__suvra_/"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a target="_blank" href=""><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a target="_blank" href=""><i className="fa fa-github" aria-hidden="true"></i></a></li>
+                                <li><a target="_blank" href=""><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 {/* <li><a href=""><i className="fa fa-google-plus" aria-hidden="true"></i></a></li> */}
                                 {/* <li><a href=""><i className="fa fa-skype" aria-hidden="true"></i></a></li> */}
                                 <li><a href=""><i className="fa fa-whatsapp" aria-hidden="true"></i></a></li>
