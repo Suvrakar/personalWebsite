@@ -11,7 +11,7 @@ export default function Hero() {
 
 
                 <div className="text-center">
-                    <h1 className="neon">Hi I am Debashis Kar<br />
+                    <h1 className="neon">Hi I am Abrar<br />
                         <h3>A Software Engineer From Bangladesh</h3></h1>
                     <div className='pt-5 mt-5 text-center'>
                         <Button></Button>
