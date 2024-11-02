@@ -9,7 +9,9 @@ export default function Button() {
             <span></span>
             <span></span>
             <span></span>
-            Contact Me
+            Read My Blogs!
+            <span></span>
+            <span></span>
         </a>
     </div>;
 }

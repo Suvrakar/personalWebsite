@@ -4,7 +4,7 @@ import Button from './Components/Button/Button';
 import Hero from './Components/Hero/Hero';
 import Work from './Components/Work/Work';
 import Education from './Components/Education/Education';
-import Project from './Components/Projects/Project';
+import Project from './Components/Hobbies/Hobbies';
 import AwardsPub from './Components/AwardsPub/Awards';
 import Skills from './Components/MySkills/Skills';
 import Interest from './Components/Interest/Interest';
@@ -12,6 +12,7 @@ import BlogArticles from './Components/BlogArticles/BlogArticles';
 import Contact from './Components/ContactMe/Contact';
 import { Helmet } from "react-helmet";
 import HobbyProjects from './Components/MyHobbyPrjnct/MyHobbyPrjnct';
+import Hobbies from './Components/Hobbies/Hobbies';
 
 
 
@@ -31,7 +32,7 @@ function App() {
       <Work />
       <Education />
       <Skills />
-      <Project />
+      <Hobbies/>
       <AwardsPub />
       <Interest />
       <BlogArticles />
